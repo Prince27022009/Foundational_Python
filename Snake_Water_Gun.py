@@ -61,7 +61,7 @@ while True:
     print("\nChoose: \ns/snake for snake.\nw/water for water.\ng/gun for gun.\nq/exit to quit")
 
     non_player = input("Enter your choice").lower()
-    player = meanings.get(non_player)#converts everything to snake,                                                                    water, gun.
+    player = meanings.get(non_player)  #converts everything to snake, water, gun.
     if player is None:
         print("Invalid input. please put from the ones mentioned below")
         continue
