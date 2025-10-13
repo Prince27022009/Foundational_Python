@@ -11,7 +11,8 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 
 ### Project 2: Snake_Water_Gun
 - **Description:** A game similar to Rock_Paper_Sissor and based on simple concept of:
-  🐍 > 🌊 (Snake drinks water) 🌊 > 🔫 (Water clogs the gun)
+  🐍 > 🌊 (Snake drinks water)
+  🌊 > 🔫 (Water clogs the gun)
   🔫 > 🐍 (Gun shoots snake)
 - **Skills Learned:** Conditional statements, Error handling, Input handling, problem solving, creative solution. 
 - **How to Run:** …  
