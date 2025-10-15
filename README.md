@@ -3,26 +3,32 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 
 ## Projects
 
-### Project 1: Arithmetic_Calculator
-- **Description:** Calculates addition, subtraction, multiplication, division, exponents, Remainder and Square root. 
-- **Skills Learned:** Conditional statements, Input handling, Error handling, Arithmatic operations, etc. 
-- **How to Run:** [Instructions to run the project]  
-- **Screenshot:** *(optional)*  
+### Project 1: Adventure_Dungen_level
+- **Description:** A fun mini-game where you explore, solve mystery, fight a boss and secure treasure.
+- **Skills learnt:** Program structure, state management, Creative and interactive programming, etc.
+- **How to run:**
 
-### Project 2: Snake_Water_Gun
+### Project 2: Mood_Tracker
+- **Description:** Asks user about their mood and gives advices. Also asks user for a note and saves it.
+- **Skills learnt:** File handling, data persistence, string formatting, CLI, etc.
+
+### Project 3: Arithmetic_Calculator
+- **Description:** Calculates addition, subtraction, multiplication, division, exponents, Remainder and Square root. 
+- **Skills learnt:** Conditional statements, Input handling, Error handling, Arithmatic operations, etc. 
+- **How to Run:** [Instructions to run the project]   
+
+### Project 4: Snake_Water_Gun
 - **Description:** A game similar to Rock_Paper_Sissor and based on simple concept of:
   🐍 > 🌊 (Snake drinks water)
   🌊 > 🔫 (Water clogs the gun)
   🔫 > 🐍 (Gun shoots snake)
-- **Skills Learned:** Conditional statements, Error handling, Input handling, problem solving, creative solution. 
+- **Skills learnt:** Conditional statements, Error handling, Input handling, problem solving, creative solution. 
 - **How to Run:** …  
-- **Screenshot:** …
 
-### Project 3: BMI Calculator
+### Project 5: BMI_Calculator
 - **Description:** Calculates Body Mass Index (BMI) from user input and gives advice based on BMI values.  
-- **Skills Learned:** Input handling, arithmetic operations, conditional statements, User Interaction, etc.
-- **How to Run:**...
-- **Screenshot:** *(optional: add image here)*    
+- **Skills learnt:** Input handling, arithmetic operations, conditional statements, User Interaction, etc.
+- **How to Run:**...    
 
 ## Learning Journey
 Through these projects, I practiced core Python concepts like loops, functions, conditionals, and techniques like File I/O, Error handling, and many more. Each project reflects my growth and understanding over time.
