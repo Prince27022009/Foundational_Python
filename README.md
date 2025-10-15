@@ -3,8 +3,8 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 
 ## Projects
 
-### Project 1: Adventure_Dungen_level
-- **Description:** A fun mini-game where you explore, solve mystery, fight a boss and secure treasure.
+### Project 1: Adventure_Dungen
+- **Description:** A fun mini-game where you explore, solve mysteries, fight a boss and secure treasure.
 - **Skills learnt:** Program structure, state management, Creative and interactive programming, etc.
 - **How to run:**
 
