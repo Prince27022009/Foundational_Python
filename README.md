@@ -6,7 +6,8 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 ### Project 1: Adventure_Dungen
 - **Description:** A fun mini-game where you explore, solve mysteries, fight a boss and secure treasure.
 - **Skills learnt:** Program structure, state management, Creative and interactive programming, etc.
-- **How to run:**
+- **How to run:** Make sure you have **Python 3** installed.
+  click (https://github.com/Prince27022009/Foundational_Python/blob/488bd314cd2df71d55d2925c5adbccb4d19873c3/Adventure_Dungen.py)
 
 ### Project 2: Mood_Tracker
 - **Description:** Asks user about their mood and gives advices. Also asks user for a note and saves it.
