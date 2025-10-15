@@ -11,6 +11,7 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 ### Project 2: Mood_Tracker
 - **Description:** Asks user about their mood and gives advices. Also asks user for a note and saves it.
 - **Skills learnt:** File handling, data persistence, string formatting, CLI, etc.
+- **How to run:**...
 
 ### Project 3: Arithmetic_Calculator
 - **Description:** Calculates addition, subtraction, multiplication, division, exponents, Remainder and Square root. 
