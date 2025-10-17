@@ -7,7 +7,8 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 - **Description:** A fun mini-game where you explore, solve mysteries, fight a boss and secure treasure.
 - **Skills learnt:** Program structure, state management, Creative and interactive programming, etc.
 - **How to run:** Make sure you have **Python 3.6 or higher** installed.
-  python Adventure_Dungen.py 
+Clone or download this repository to your computer.
+  
 
 ### Project 2: Mood_Tracker
 - **Description:** Asks user about their mood and gives advices. Also asks user for a note and saves it.
