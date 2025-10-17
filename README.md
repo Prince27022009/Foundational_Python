@@ -7,21 +7,28 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 - **Description:** A fun mini-game where you explore, solve mysteries, fight a boss and secure treasure.
 - **Skills learnt:** Program structure, state management, Creative and interactive programming, etc.
 - **How to run:**
- • Make sure you have **Python 3.6 or higher** installed.
- • Clone or download this repository to your computer.
- • Open the project folder in your terminal or IDE.
- • Run the script using: python Adventure_Dungen.py
+-  Make sure you have **Python 3.6 or higher** installed.   - Clone or download this repository to your computer.
+- Open the project folder in your terminal or IDE.
+- Run the script using: python Adventure_Dungen.py
   
 
 ### Project 2: Mood_Tracker
 - **Description:** Asks user about their mood and gives advices. Also asks user for a note and saves it.
 - **Skills learnt:** File handling, data persistence, string formatting, CLI, etc.
-- **How to run:** Make sure you have **Python 3.7 or higher** installed.
+- **How to run:**
+- Make sure you have **Python 3.7 or higher** installed.
+- Clone or download this repository to your computer.
+- Open the project folder in your terminal or IDE.
+- Run the script using: python Adventure_Dungen.py
 
 ### Project 3: Arithmetic_Calculator
 - **Description:** Calculates addition, subtraction, multiplication, division, exponents, Remainder and Square root. 
 - **Skills learnt:** Conditional statements, Input handling, Error handling, Arithmatic operations, etc. 
-- **How to Run:** Make sure you have **Python 3.6 or higher** installed.
+- **How to Run:**
+- Make sure you have **Python 3.6 or higher** installed.
+- Clone or download this repository to your computer.
+- Open the project folder in your terminal or IDE.
+- Run the script using: python Adventure_Dungen.py
 
 ### Project 4: Snake_Water_Gun
 - **Description:** A game similar to Rock_Paper_Sissor and based on simple concept of:
@@ -29,12 +36,21 @@ A hands-on Python learning repository demonstrating fundamental programming logi
   🌊 > 🔫 (Water clogs the gun)
   🔫 > 🐍 (Gun shoots snake)
 - **Skills learnt:** Conditional statements, Error handling, Input handling, problem solving, creative solution. 
-- **How to Run:** Make sure you have **Python 3.6 or higher** installed 
+- **How to Run:**
+- Make sure you have **Python 3.6 or higher** installed.
+- Clone or download this repository to your computer.
+- Open the project folder in your terminal or IDE.
+- Run the script using: python Adventure_Dungen.py
+
 
 ### Project 5: BMI_Calculator
 - **Description:** Calculates Body Mass Index (BMI) from user input and gives advice based on BMI values.  
 - **Skills learnt:** Input handling, arithmetic operations, conditional statements, User Interaction, etc.
-- **How to Run:** Make sure you have **Python 3.6 or higher** installed  
+- **How to Run:**
+- Make sure you have **Python 3.6 or higher** installed.
+- Clone or download this repository to your computer.
+- Open the project folder in your terminal or IDE.
+- Run the script using: python Adventure_Dungen.py
 
 ## Learning Journey
 Through these projects, I practiced core Python concepts like loops, functions, conditionals, and techniques like File I/O, Error handling, and many more. Each project reflects my growth and understanding over time.
