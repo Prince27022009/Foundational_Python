@@ -19,7 +19,7 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 - Make sure you have **Python 3.7 or higher** installed.
 - Clone or download this repository to your computer.
 - Open the project folder in your terminal or IDE.
-- Run the script using: python Adventure_Dungen.py
+- Run the script using: python Mood_Tracker.py
 
 ### Project 3: Arithmetic_Calculator
 - **Description:** Calculates addition, subtraction, multiplication, division, exponents, Remainder and Square root. 
@@ -28,7 +28,7 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 - Make sure you have **Python 3.6 or higher** installed.
 - Clone or download this repository to your computer.
 - Open the project folder in your terminal or IDE.
-- Run the script using: python Adventure_Dungen.py
+- Run the script using: python Arithmetic_Calculator.py
 
 ### Project 4: Snake_Water_Gun
 - **Description:** A game similar to Rock_Paper_Sissor and based on simple concept of:
@@ -40,7 +40,7 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 - Make sure you have **Python 3.6 or higher** installed.
 - Clone or download this repository to your computer.
 - Open the project folder in your terminal or IDE.
-- Run the script using: python Adventure_Dungen.py
+- Run the script using: python Snake_Water_Gun.py
 
 
 ### Project 5: BMI_Calculator
@@ -50,7 +50,7 @@ A hands-on Python learning repository demonstrating fundamental programming logi
 - Make sure you have **Python 3.6 or higher** installed.
 - Clone or download this repository to your computer.
 - Open the project folder in your terminal or IDE.
-- Run the script using: python Adventure_Dungen.py
+- Run the script using: python BMI_Calculator.py
 
 ## Learning Journey
 Through these projects, I practiced core Python concepts like loops, functions, conditionals, and techniques like File I/O, Error handling, and many more. Each project reflects my growth and understanding over time.
