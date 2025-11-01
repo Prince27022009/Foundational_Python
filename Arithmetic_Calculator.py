@@ -1,8 +1,8 @@
 import math
 
 print("Welcome to my calculator!")
-print("\nYou can do +(add), -(subtract), *(multiply), /(divide), ^ (exponent), % (remainder), sqrt() (square root)")
-print("\nuse format : sqrt(number) to calculate squares")
+print("\nYou can +(add), -(subtract), *(multiply), /(divide), ^ (exponent), % (remainder), sqrt() (square root)")
+print("\nuse format : sqrt(number) to calculate square root")
 print("\nType 'exit' to stop")
 
 while True:
@@ -13,7 +13,7 @@ while True:
         break
 
     try:
-         # Handle power
+         # Handling exponents
         problem = problem.replace("^", "**")
         # Handle square root
         if "sqrt" in problem:
