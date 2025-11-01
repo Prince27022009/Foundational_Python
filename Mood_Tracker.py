@@ -89,7 +89,7 @@ def main():
 
     #  Show random advice
     advice = random.choice(moods[selected_mood])
-    print(f"{advice}")
+    print(f"\n{advice}")
 
     # Take optional note
     note = input("\nWrite a short note about your day (or press Enter to skip): ")
